@@ -12,7 +12,7 @@ This project analyzes retail sales, customer purchasing behavior, product perfor
 ## Tools Used
 - MySQL / SQL Server
 - SQL
-- Excel / Power BI
+- Excel 
 - GitHub
 
 ## Dataset
