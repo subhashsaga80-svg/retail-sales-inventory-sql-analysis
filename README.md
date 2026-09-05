@@ -54,4 +54,4 @@ The project uses a sample retail dataset containing customer, product, sales inf
 ## Author
 Subhash Kumar  
 LinkedIn: [https://www.linkedin.com/in/subhash-kumar-43416b118/]  
-GitHub: [Add your GitHub URL]
+GitHub: [https://github.com/subhashsaga80-svg]
